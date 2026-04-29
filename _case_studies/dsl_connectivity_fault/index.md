@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "DSL Connectivity Fault Diagnosis and Cable Replacement"
 category: Networking
 excerpt: "Intermittent DSL dropouts traced through systematic elimination from ISP infrastructure inward. Resolved by replacing an aging RJ11 cable with degraded signal integrity."
