@@ -30,6 +30,9 @@ collections:
   case_studies:
     output: true
     permalink: /case-studies/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 defaults:
   - scope:
@@ -37,3 +40,12 @@ defaults:
       type: case_studies
     values:
       layout: single
+      last_modified_at: false
+      read_time: false
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      last_modified_at: false
+      read_time: false
