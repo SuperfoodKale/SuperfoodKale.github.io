@@ -23,6 +23,8 @@ search_provider: lunr
 
 show_excerpts: false
 
+last_modified_at: false
+
 atom_feed:
   hide: true
 
@@ -42,6 +44,7 @@ defaults:
       layout: single
       last_modified_at: false
       read_time: false
+      show_date: false
   - scope:
       path: ""
       type: projects
@@ -49,3 +52,4 @@ defaults:
       layout: single
       last_modified_at: false
       read_time: false
+      show_date: false
