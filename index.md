@@ -3,8 +3,7 @@ layout: splash
 author_profile: false
 ---
 
-Focused on diagnosing system failures and building tools to understand and fix them.
-Working across systems, security, and software through a practical, hands-on approach.
+A collection of projects and case studies from things I’ve built and worked through.
 
 ## Explore
 - [Case Studies](case-studies.md)
