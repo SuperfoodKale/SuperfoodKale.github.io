@@ -1,7 +1,9 @@
-Systems, security, and software engineering work focused on diagnosing problems, building tools, and understanding how systems behave under failure.
+---
+layout: splash
+author_profile: false
+---
 
-## Overview
-Technical work spanning system troubleshooting, security analysis, and software development. Focused on identifying root causes, building practical tools, and working through complex technical issues.
+Systems, security, and software engineering focused on diagnosing issues, building tools, and understanding system behaviour under failure.
 
 ## Explore
 - [Case Studies](case-studies.md)
