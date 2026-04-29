@@ -25,3 +25,15 @@ show_excerpts: false
 
 atom_feed:
   hide: true
+
+collections:
+  case_studies:
+    output: true
+    permalink: /case-studies/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: case_studies
+    values:
+      layout: single
