@@ -1,2 +1,7 @@
 title: Professional Portfolio
 theme: minima
+
+header_pages:
+  - case-studies.md
+  - projects.md
+  - about.md
