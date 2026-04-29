@@ -42,7 +42,7 @@ defaults:
       type: case_studies
     values:
       layout: splash
-      last_modified_at: false
+      last_modified_at: null
       read_time: false
       show_date: false
   - scope:
@@ -50,6 +50,6 @@ defaults:
       type: projects
     values:
       layout: splash
-      last_modified_at: false
+      last_modified_at: null
       read_time: false
       show_date: false
