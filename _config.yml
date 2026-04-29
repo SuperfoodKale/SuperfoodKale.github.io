@@ -1,5 +1,14 @@
 title: Technical Portfolio
-theme: jekyll-theme-hacker
+description: Systems, security, and software engineering work focused on diagnosing problems, building tools, and understanding system behaviour under failure.
+
+remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: default
+
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
 
 header_pages:
   - index.md
@@ -7,4 +16,4 @@ header_pages:
   - projects.md
   - about.md
 
-show_excerpts: false
+search: true
