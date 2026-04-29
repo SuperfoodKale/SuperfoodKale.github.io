@@ -1,4 +1,7 @@
-# Memory Instability Under Stress Due to Memory Frequency Incompatibility
+---
+layout: single
+title: "Memory Instability Under Stress Due to Memory Frequency Incompatibility"
+---
 
 ## Context
 A high-performance desktop system with 64GB DDR5 memory exhibiting instability during memory-intensive workloads. The system operated normally under light use but became unreliable and prone to crashing when under sustained high memory pressure.
