@@ -1,7 +1,10 @@
-title: Professional Portfolio
-theme: minima
+title: Technical Portfolio
+theme: jekyll-theme-cayman
 
 header_pages:
+  - index.md
   - case-studies.md
   - projects.md
   - about.md
+
+  show_excerpts: false
