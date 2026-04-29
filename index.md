@@ -3,7 +3,8 @@ layout: splash
 author_profile: false
 ---
 
-Systems, security, and software engineering focused on diagnosing issues, building tools, and understanding system behaviour under failure.
+Focused on diagnosing system failures and building tools to understand and fix them.
+Working across systems, security, and software through a practical, hands-on approach.
 
 ## Explore
 - [Case Studies](case-studies.md)
