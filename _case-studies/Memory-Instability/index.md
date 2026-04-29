@@ -1,6 +1,9 @@
 ---
 layout: single
 title: "Memory Instability Under Stress Due to Memory Frequency Incompatibility"
+category: Hardware
+excerpt: "DDR5 system crashing under high memory bandwidth workloads. Diagnosed as a frequency incompatibility between the installed capacity and motherboard specifications. Resolved via BIOS downclocking with no performance degradation."
+order: 1
 ---
 
 ## Context
