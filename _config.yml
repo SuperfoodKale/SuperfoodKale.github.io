@@ -42,6 +42,7 @@ defaults:
       type: case_studies
     values:
       layout: single
+      classes: wide
       last_modified_at: null
       read_time: false
       show_date: false
@@ -50,6 +51,7 @@ defaults:
       type: projects
     values:
       layout: single
+      classes: wide
       last_modified_at: null
       read_time: false
       show_date: false
