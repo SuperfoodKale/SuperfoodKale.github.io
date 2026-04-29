@@ -23,7 +23,7 @@ search_provider: lunr
 
 show_excerpts: false
 
-last_modified_at: false
+last_modified_at: null
 
 atom_feed:
   hide: true
