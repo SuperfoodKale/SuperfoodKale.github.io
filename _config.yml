@@ -1,5 +1,15 @@
 title: Technical Portfolio
-theme: jekyll-theme-cayman
+description: Systems, security, and software engineering work focused on diagnosing problems, building tools, and understanding system behaviour under failure.
+
+remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: dark
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+markdown: kramdown
 
 header_pages:
   - index.md
@@ -7,4 +17,11 @@ header_pages:
   - projects.md
   - about.md
 
-  show_excerpts: false
+search: true
+
+search_provider: lunr
+
+show_excerpts: false
+
+atom_feed:
+  hide: true
