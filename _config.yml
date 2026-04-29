@@ -3,10 +3,11 @@ description: Systems, security, and software engineering work focused on diagnos
 
 remote_theme: mmistakes/minimal-mistakes
 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
 
 markdown: kramdown
 
@@ -17,3 +18,10 @@ header_pages:
   - about.md
 
 search: true
+
+search_provider: lunr
+
+show_excerpts: false
+
+atom_feed:
+  hide: true
