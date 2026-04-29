@@ -7,4 +7,4 @@ header_pages:
   - projects.md
   - about.md
 
-  show_excerpts: false
+show_excerpts: false
