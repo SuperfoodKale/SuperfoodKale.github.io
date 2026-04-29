@@ -41,7 +41,7 @@ defaults:
       path: ""
       type: case_studies
     values:
-      layout: single
+      layout: splash
       last_modified_at: false
       read_time: false
       show_date: false
@@ -49,7 +49,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: single
+      layout: splash
       last_modified_at: false
       read_time: false
       show_date: false
